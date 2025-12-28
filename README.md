@@ -1,5 +1,29 @@
 # 💫 About Me:
-Interests: Physical AI, VLA, Robotics, Imitation Learning, Continual Learning<br><br>🔹 About Me<br>I am a PhD Geophysicist specializing in Applied Machine Learning, currently contributing to Samsung C&T Construction's Construction Technology Lab. My work integrates advanced AI techniques with geophysical principles to develop innovative solutions for geotechnical challenges in construction.<br><br>🔹 Current Focus:<br>Developing physics-aware machine learning models to address complex geophysical and geotechnical problems.<br> • Collaborating with multidisciplinary teams to integrate AI solutions into construction technologies.<br> • Conducting research to advance the application of machine learning in geotechnical engineering.<br><br>🔹 Previous Experience:<br>At Plaif, I led machine learning initiatives, focusing on:<br> • Developing and deploying vision-language models (VLMs) for enhanced multimodal understanding.<br> • Implementing continual learning strategies to improve model robustness and adaptability.<br> • Establishing MLOps pipelines to streamline model training, optimization, and monitoring.<br><br>During my tenure at Hanyang University Geophysical Lab, I conducted research in machine learning applications for geophysics, specializing in reservoir characterization, seismic inversion, facies classification, and horizon tracking etc. I developed a patented spatial pseudo-labeling method, achieving a >95% accuracy in facies classification away from well locations.<br><br>At OGDCL, I assisted in the interpretation of 2D and 3D seismic data, preparation of synthetic seismograms, and generation of time and depth contour maps. I contributed to the planning and design of seismic acquisition projects, ensuring quality control and integration of petrophysical data with seismic data.<br><br>As a Field Geophysicist at HESC, I acquired and interpreted electrical resistivity data, generating layered and smooth resistivity sounding models. I produced iso-resistivity maps and digital elevation models, contributing to environmental and hydrogeophysical assessments.<br><br>🔹 Passion & Vision:<br>I am passionate about leveraging machine learning to drive impactful, data-driven solutions in geophysics and construction technology. My work is grounded in a commitment to continuous learning, professional growth, and contributing to projects that make a meaningful impact on the world.
+Interests: Physical AI, Vision-Language Models (VLA/VLM), Robotics, Imitation Learning, Continual Learning
+
+About Me:
+PhD Geophysicist specializing in Applied Machine Learning, currently working at Samsung C&T Construction – Construction Technology Lab. I focus on integrating physics-aware AI with geophysics to solve complex geotechnical challenges in construction.
+
+Current Work:
+
+Developing physics-informed ML models for geophysical and geotechnical problems
+
+Applying AI in construction technology through multidisciplinary collaboration
+
+Researching scalable ML solutions for real-world engineering systems
+
+Experience Highlights:
+
+Plaif: Led ML initiatives including vision-language models, continual learning, and end-to-end MLOps pipelines
+
+Hanyang University: ML research in geophysics (seismic inversion, facies classification, reservoir characterization); developed a patented spatial pseudo-labeling method (>95% accuracy away from wells)
+
+OGDCL: Seismic interpretation, synthetic seismograms, contour mapping, and acquisition planning
+
+HESC: Field geophysics—electrical resistivity surveys, iso-resistivity mapping, and hydrogeophysical analysis
+
+Vision:
+Passionate about applying machine learning to build robust, physics-aware systems that deliver impactful, real-world solutions in geophysics and construction technology.
 
 
 ## 🌐 Socials:
