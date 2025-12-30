@@ -27,7 +27,8 @@ Passionate about applying machine learning to build robust, physics-aware system
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleem-asghar-ph-d-75b080ab/) [![Scholar](img.shields.io)](https://scholar.google.com/citations?user=VFWPep4AAAAJ&hl=en) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabaitham@gmail.com)
+[![LinkedIn](img.shields.io)](www.linkedin.com) [![Scholar](img.shields.io)](scholar.google.com) [![email](img.shields.io)](mailto:sabaitham@gmail.com)
+
 
 
 # 💻 Tech Stack:
